@@ -1,8 +1,12 @@
-# Tauri + Vite + React Template
+# tauri-vite-react-template
+
+![Preview](https://github.com/user-attachments/assets/6eed8cce-c69c-43a1-87b0-8d297067dbaa)
 
 A starter template for building cross-platform desktop apps with Tauri, Vite, and React.
 
-This project includes:
+---
+
+This template includes:
 
 - React 19
 - Vite
@@ -20,7 +24,7 @@ Before running the app, make sure you have:
 - Rust and Cargo
 - Tauri prerequisites for your platform
 
-For most setups, install the required Tauri dependencies from the official Tauri documentation for your OS.
+For most setups, install the required Tauri dependencies from the official [Tauri documentation](https://tauri.app/start) for your OS.
 
 ## Quick start
 
